@@ -9,6 +9,7 @@
 + The existing universal restaurant booking system has been expanded and renovated into a guest and store management system for restaurants.
 
 <br>
+
 ### Functions
 + Reservation Management Functions
 + Reservation Lookup
