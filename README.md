@@ -27,3 +27,18 @@
 + Restaurant Rating Function
 + Restaurant Review Functions
 + Employee Evaluation Capability
+
+<br>
+
+### Development Environment
++ MySQL 8.0.18
++ Apache-tomcat-9.0.29
++ Bootstrap v3.3
++ Java
++ JavaScript
++ JSP
++ HTML
+
+<br>
+<br>
+
