@@ -1,5 +1,5 @@
 # Restaurant-Management-System
-+ 3rd grade 2nd semester Software Engineering Project (2019.10 ~ 2019.12)
++ 3rd grade 2nd semester Software Engineering Project (2019/10 ~ 12)
 + with : 김민호, 김상현, 김태현, 박지훈, 박현우
 
 <br>
