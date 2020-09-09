@@ -13,15 +13,15 @@
 + Reservation Lookup
 + Appointment Receipt
 + Cancel Reservation
-+ arrival record
-+ seat movement
++ Arrival record
++ Seat movement
 + Customer Care Functions
 + Key Customer Visits Time Zone
 + Each Customer's Preferred Menu
 + Customer's treatment level (black, VIP)
 + Customer's specific tendencies (vegetables, broiling...)
 + Staff Management Functions
-+ records of employee absenteeism and tardiness
++ Records of employee absenteeism and tardiness
 + Employee Rating Check
 + Restaurant Evaluation Function
 + Restaurant Rating Function
