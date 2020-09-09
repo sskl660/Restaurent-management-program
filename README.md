@@ -42,5 +42,12 @@
 <br>
 <br>
 
-## Class Diagram
+## Composition Diagram
+### Class Diagram
 ![1](https://user-images.githubusercontent.com/50494545/92580911-f6bab180-f2c9-11ea-8c05-35c8475041a0.PNG)
+
+<br>
+<br>
+
+### ER Diagram
+![6](https://user-images.githubusercontent.com/50494545/92581071-28337d00-f2ca-11ea-8421-7831d85e7bdb.PNG)
